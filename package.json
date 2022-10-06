@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node":"16.x"
+  },
   "scripts": {
+    "start": "node dist/server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-roda":"nodemon -e ts,json,mustache src/server.ts"
+    "start-roda":"nodemon -e ts,json,mustache src/server.ts",
+    "postinstall": "tsc && copyfiles -u 1 src/**/*.mustache dist"
   },
   "repository": {
     "type": "git",
