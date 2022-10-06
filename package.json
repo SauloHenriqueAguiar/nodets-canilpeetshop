@@ -7,11 +7,12 @@
     "node": "16.x"
   },
   "scripts": {
+    "tsc": "tsc",
     "start": "node dist/server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start-roda": "nodemon -e ts,json,mustache src/server.ts",
-    "postinstall": "npm run tsc && copyfiles -u 1 src/**/*.mustache dist",
-    "tsc": "tsc"
+    "postinstall": "npm run tsc && copyfiles -u 1 src/**/*.mustache dist"
+   
   },
   "repository": {
     "type": "git",
