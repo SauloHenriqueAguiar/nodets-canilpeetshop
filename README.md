@@ -12,5 +12,5 @@ Projeto de um PetShop online
 ### Para executar o projeto
 `npm run start-dev`
 
+ <img src=”C:\Users\saulo\Downloads\petshopimage.png”>
 
-![](C:\Users\saulo\Downloads\petshopimage.png)
