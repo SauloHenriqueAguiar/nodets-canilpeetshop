@@ -13,4 +13,4 @@ Projeto de um PetShop online
 `npm run start-dev`
 
 
-<img src=""C:\Users\saulo\Downloads\petshopimage.png"" alt=" logo"/>
+![]("C:\Users\saulo\Downloads\petshopimage.png")
