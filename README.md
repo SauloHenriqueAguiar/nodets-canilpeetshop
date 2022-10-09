@@ -12,6 +12,6 @@ Projeto de um PetShop online
 ### Para executar o projeto
 `npm run start-dev`
 
- <img src=”https://user-images.githubusercontent.com/78816148/194732304-83d33564-85e5-4ab4-9d0a-ab00abb77402.png”>
-
-![petshopimage]()
+ ### HomePage do Projeto
+ 
+ ![imagempetshopweb](https://user-images.githubusercontent.com/78816148/194732304-83d33564-85e5-4ab4-9d0a-ab00abb77402.png)
