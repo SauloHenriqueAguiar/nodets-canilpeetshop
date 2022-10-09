@@ -12,6 +12,6 @@ Projeto de um PetShop online
 ### Para executar o projeto
 `npm run start-dev`
 
- <img src=”C:\Users\saulo\Downloads\petshopimage.png”>
+ <img src=”https://github.com/SauloHenriqueAguiar/nodets-canilpeetshop/issues/1#issue-1402106063”>
 
 ![petshopimage](C:\Users\saulo\Downloads\petshopimage.png)
